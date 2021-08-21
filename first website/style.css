@@ -1,0 +1,35 @@
+
+.bgcolor.scrolled{
+	background-color: red;
+}
+.big-banner{
+	background: url("office1.jpg"); 
+	background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+	height: 500px; 
+
+} 
+#three{
+	background-color: lightskyblue;
+}
+#icons{
+	margin-left:; 
+
+} 
+#links{
+	margin-left:;
+}
+#card:hover{
+	background-color: black;
+}
+
+
+#heading{ 
+color:red; 
+
+} 
+.img-fluid{
+	height:350px; 
+	background-color:rosybrown;
+}
